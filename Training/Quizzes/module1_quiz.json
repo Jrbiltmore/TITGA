@@ -1,0 +1,36 @@
+
+{
+    "quiz_title": "Compliance Training Quiz",
+    "questions": [
+        {
+            "question": "What is the primary purpose of compliance in our organization?",
+            "options": [
+                "To increase sales",
+                "To ensure legal and regulatory adherence",
+                "To reduce operational costs",
+                "To improve customer satisfaction"
+            ],
+            "correct_answer": "To ensure legal and regulatory adherence"
+        },
+        {
+            "question": "Which of the following is a consequence of non-compliance?",
+            "options": [
+                "Improved brand reputation",
+                "Increased revenue",
+                "Legal penalties and fines",
+                "Enhanced employee morale"
+            ],
+            "correct_answer": "Legal penalties and fines"
+        },
+        {
+            "question": "What tool can be used to report compliance violations?",
+            "options": [
+                "Compliance management software",
+                "Social media",
+                "Personal email",
+                "Instant messaging apps"
+            ],
+            "correct_answer": "Compliance management software"
+        }
+    ]
+}

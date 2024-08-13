@@ -1,0 +1,36 @@
+
+{
+    "quiz_title": "Cybersecurity Basics Quiz",
+    "questions": [
+        {
+            "question": "What is the primary goal of cybersecurity?",
+            "options": [
+                "To improve internet speed",
+                "To protect systems from digital attacks",
+                "To reduce software costs",
+                "To enhance user experience"
+            ],
+            "correct_answer": "To protect systems from digital attacks"
+        },
+        {
+            "question": "Which of the following is a common cybersecurity threat?",
+            "options": [
+                "Phishing",
+                "Outdated hardware",
+                "Slow internet connection",
+                "Low disk space"
+            ],
+            "correct_answer": "Phishing"
+        },
+        {
+            "question": "What practice adds an extra layer of security beyond just passwords?",
+            "options": [
+                "Using simple passwords",
+                "Disabling security software",
+                "Enabling Multi-Factor Authentication (MFA)",
+                "Sharing passwords with others"
+            ],
+            "correct_answer": "Enabling Multi-Factor Authentication (MFA)"
+        }
+    ]
+}

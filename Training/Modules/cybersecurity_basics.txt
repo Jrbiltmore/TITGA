@@ -1,0 +1,34 @@
+
+# Cybersecurity Basics
+
+## Introduction
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information, extorting money from users, or interrupting normal business processes.
+
+## Key Concepts
+- **Confidentiality:** Ensuring that information is not accessed by unauthorized individuals.
+- **Integrity:** Protecting information from being altered by unauthorized parties.
+- **Availability:** Ensuring that information is available to authorized users when needed.
+
+## Common Threats
+1. **Phishing:** Attempt to obtain sensitive information by pretending to be a trustworthy entity.
+2. **Malware:** Software designed to disrupt, damage, or gain unauthorized access to a computer system.
+3. **Ransomware:** A type of malware that threatens to publish the victim's data or block access to it unless a ransom is paid.
+
+## Best Practices
+- **Use Strong Passwords:** Ensure that passwords are complex and changed regularly.
+- **Enable Multi-Factor Authentication (MFA):** Add an extra layer of security beyond just passwords.
+- **Keep Software Updated:** Regularly update your software to protect against vulnerabilities.
+- **Be Aware of Phishing Scams:** Always verify the sender's information before opening attachments or clicking on links.
+
+## Response Plan
+- **Identify the Threat:** Recognize signs of a potential cyber attack.
+- **Contain the Threat:** Isolate affected systems to prevent further damage.
+- **Eradicate the Threat:** Remove malicious software and ensure that vulnerabilities are patched.
+- **Recover Systems:** Restore data and functionality from backups.
+- **Review and Improve:** Analyze the attack to improve future defenses.
+
+## Conclusion
+Cybersecurity is a shared responsibility. By following best practices and staying informed about potential threats, you can help protect our organization from cyber attacks.
+
+---
+**Disclaimer:** This material is for educational purposes only and is intended to improve awareness of cybersecurity threats and best practices within our organization.
